@@ -1,0 +1,21 @@
+{
+  "name": "sgcs-hubspot",
+  "version": "1.0.0",
+  "description": "SGCS HubSpot Integration Service",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innov2e/SGCS-HubSpot-Service.git"
+  },
+  "keywords": [],
+  "author": "Innov2e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innov2e/SGCS-HubSpot-Service/issues"
+  },
+  "homepage": "https://github.com/innov2e/SGCS-HubSpot-Service#readme"
+}
